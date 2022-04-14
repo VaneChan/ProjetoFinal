@@ -1,0 +1,16 @@
+* {
+  margin: 2%;
+  padding: 0;
+  box-sizing: 0;
+}
+body {
+  background: linear-gradient(
+    to right top,
+    #144fa8,
+    #0079c3,
+    #18a1d4,
+    #64c7e1,
+    #a5ebf0
+  );
+  font-family: 'Lato', sans-serif;
+}
